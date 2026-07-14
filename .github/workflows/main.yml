@@ -1,8 +1,1 @@
-name: Android Build
-on: [push]
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-load_url: https://downloads.tuxfamily.org/godotengine/4.2.1/Godot_v4.2.
-          
+2.1
